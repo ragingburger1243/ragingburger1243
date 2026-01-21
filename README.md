@@ -20,6 +20,19 @@
 
 ---
 
+## 🚫 Avoid at All Costs
+
+- ☕ **JAVA** - Nope. Not today, not ever.
+- ➕ **C++** - I like my sanity, thanks
+
+---
+
+## 🐱 Random Facts
+
+- I have a cat (they're probably judging my code right now)
+
+---
+
 ## 📊 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ragingburger1243&color=blueviolet&style=flat-square)
