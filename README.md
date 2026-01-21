@@ -17,6 +17,22 @@
 - 🔷 **C#** - might mess around with Unity or something idk
 - 🟨 **JavaScript** - Because i heard it's more suffering that python
 
+
+---
+ 
+## 🚫 Avoid at All Costs
+ 
+- ☕ **JAVA** - No, just no
+- ➕ **C++** - Do i want to go insane, NO
+ 
+---
+ 
+## 🐱 Random Facts
+ 
+- I have a cat (Staring with judging eyes rn btw)
+- uhm i code
+- i have a github
+
 ---
 ## 📊 Stats
 > Inflated by yours truly
