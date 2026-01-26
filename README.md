@@ -16,7 +16,7 @@
  
 - 🔷 **C#** - might mess around with Unity or something idk
 - 🟨 **JavaScript** - Because i heard it's more suffering that python
-
+- 🦀 **rust** - because better than c++ maybe idk though
 
 ---
  
