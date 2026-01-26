@@ -1,6 +1,8 @@
-# 👋 Hey there!
+# 👋 Sup!
 
-> Probably working on some stupid project 😁
+Probably working on some stupid project 😁
+
+**Your favorite jetbrains fanboy 😎**
 
 ---
 
@@ -14,26 +16,31 @@
 
 ## 🎯 Things I'm Pretending I'll Learn Someday
 
-- 🔷 **C#** - Heard it's cool, might mess around with Unity or something idk
-- 🟨 **JavaScript** - Because apparently Python isn't enough suffering
+- 🔷 **C#** - might mess around with Unity or something idk
+- 🟨 **JavaScript** - Because i heard it's more suffering that python
+- 🦀 **rust** - because better than c++ maybe idk though
 - *(Narrator: They never learned them)*
 
 ---
 
 ## 🚫 Avoid at All Costs
 
-- ☕ **JAVA** - Nope. Not today, not ever.
-- ➕ **C++** - I like my sanity, thanks
+- ☕ **JAVA** - No, just no
+- ➕ **C++** - Do i want to go insane, NO
 
 ---
 
 ## 🐱 Random Facts
 
-- I have a cat (they're probably judging my code right now)
+- I have a cat (Staring with judging eyes rn btw)
+- uhm i code
+- i have a github
 
 ---
 
 ## 📊 Stats
+
+*Inflated by yours truly*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ragingburger1243&color=blueviolet&style=flat-square)
 
