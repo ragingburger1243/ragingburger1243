@@ -1,9 +1,9 @@
 # 👋 Sup!
  
 Working on: 
-**Portfolio**
-**Shooter Game**
-**Anilist stats shower**
+- **Portfolio**
+- **Shooter Game**
+- **Anilist stats shower**
  
 **Your favorite jetbrains fanboy 😎**
 
