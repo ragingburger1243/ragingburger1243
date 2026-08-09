@@ -1,6 +1,9 @@
 # 👋 Sup!
  
-Probably working on some stupid project 😁
+Working on: 
+**Portfolio**
+**Shooter Game**
+**Anilist stats shower**
  
 **Your favorite jetbrains fanboy 😎**
 
