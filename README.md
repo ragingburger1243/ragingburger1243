@@ -3,7 +3,7 @@
 Working on: 
 - **Portfolio**
 - **Shooter Game** **50%**
-- **Anilist stats shower** **DONE**
+  
  
 **Your favorite jetbrains fanboy 😎**
 
