@@ -1,7 +1,7 @@
 # 👋 Sup!
  
 Working on: 
-- **Portfolio**
+- **Portfolio** **LINK: https://ragingburger1243.github.io/Portfolio/**
 - **Shooter Game** **50%**
   
  
