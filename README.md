@@ -16,6 +16,10 @@ Working on:
 - 🟩 **Minecraft Plugins** - Sometimes making stupid minecraft plugins
 - 🟨 **JavaScript/WebDev** - Sometimes i hate it
 ---
+## 🤔What i want to Learn
+- GoLang
+---
+
 ## 📊 Stats
 > Inflated by yours truly
 
